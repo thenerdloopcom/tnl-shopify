@@ -1,0 +1,1 @@
+/home/sidhant/thenerdloop-shopify/thenerdloop-theme/AGENTS.md

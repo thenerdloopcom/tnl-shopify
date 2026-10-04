@@ -1,0 +1,61 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "contact_us_wgPbNy": {
+      "type": "contact-us",
+      "name": "Contact Page",
+      "settings": {
+        "eyebrow": "THE NERDLOOP / CONTACT",
+        "description": "Questions, collabs, weird ideas, or just want to say hi? We're listening.",
+        "heading_line1": "TALK TO",
+        "heading_line2": "THE LOOP.",
+        "heading_primary_color": "#0A0A0A",
+        "heading_accent_color": "#303CFF",
+        "email_label": "EMAIL",
+        "email_address": "thenerdloop@gmail.com",
+        "email_bg": "#FFE900",
+        "email_text": "#0A0A0A",
+        "email_new_tab": false,
+        "instagram_label": "INSTAGRAM",
+        "instagram_url": "https://www.instagram.com/thenerdloopco",
+        "instagram_bg": "#F52222",
+        "instagram_text": "#FFFFFF",
+        "instagram_new_tab": true,
+        "location_eyebrow": "WHERE WE LIVE",
+        "location_main": "SOMEWHERE IN THE HEARTS OF NERDS / INDIA, OBVIOUSLY.",
+        "location_sub": "No exact coordinates. We're probably online.",
+        "location_bg": "#FFFFFF",
+        "location_text": "#0A0A0A",
+        "page_bg": "#FFFFFF",
+        "body_text": "#0A0A0A",
+        "muted_text": "#666666",
+        "border_color": "#0A0A0A",
+        "shadow_color": "#0A0A0A",
+        "max_width": 1180,
+        "column_gap": 76,
+        "block_gap": 24,
+        "block_height": 62,
+        "shadow_size": 6,
+        "padding_top": 160,
+        "padding_bottom": 160
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact_us_wgPbNy"
+  ]
+}
